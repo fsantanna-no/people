@@ -1,0 +1,3 @@
+- Artigo sumbetido
+- Liquid Haskell
+- ultima nota

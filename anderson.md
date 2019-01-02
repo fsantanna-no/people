@@ -1,0 +1,8 @@
+- Reunião 09/01, 11h
+- Documento
+    - https://docs.google.com/document/d/1JLPz5TnCLOcKlcHMchh0GfSyKoSXnD7ROPjhKXLi0Q4/edit
+    - seções
+    - modelo de TCC
+- Implementação
+    - multi saltos
+    - maquete
