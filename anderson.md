@@ -3,6 +3,7 @@
     - https://docs.google.com/document/d/1JLPz5TnCLOcKlcHMchh0GfSyKoSXnD7ROPjhKXLi0Q4/edit
     - seções
     - modelo de TCC
+        - https://mail.google.com/mail/u/0/#inbox/FMfcgxmZVFqSSZdQXNFlDgrFJdfQvrJH?compose=DmwnWrRnXvcSkZCMvcKjPHVZNnpqBzBpRXrQLfxxdkfTWmRqVFhTZBkJglRvqpndTSwQKRjJRmNb
 - Implementação
     - multi saltos
     - maquete
