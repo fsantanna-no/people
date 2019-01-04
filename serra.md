@@ -9,3 +9,6 @@
     - Falar com a Alice
     - Enviar DI (documentação interna?) para DEFIN
     - https://mail.google.com/mail/u/0/#inbox/FMfcgxvzLrJVZpJQxQHlCNcfjKnHlcxD?compose=DmwnWrRnXvcSkZCMvcKjPHVZNnpqBzBpRXrQLfxxdkfTWmRqVFhTZBkJglRvqpndTSwQKRjJRmNb
+
+- Fotos:
+    - https://drive.google.com/drive/folders/1B_Uz7ZCk_mB9PcjnMNwCF1mBVq_WYeNA
