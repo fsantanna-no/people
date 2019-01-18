@@ -1,3 +1,8 @@
 - Venues
     - https://mail.google.com/mail/u/0/#inbox/FMfcgxmZVPPCwtgkRZNMrVslgdqxGxPC?compose=DmwnWrRnXvcSkZCMvcKjPHVZNnpqBzBpRXrQLfxxdkfTWmRqVFhTZBkJglRvqpndTSwQKRjJRmNb
     - https://mail.google.com/mail/u/0/#inbox/FMfcgxmZVFwFzvMSQHwmprcDKfzfVhxB?compose=DmwnWrRnXvcSkZCMvcKjPHVZNnpqBzBpRXrQLfxxdkfTWmRqVFhTZBkJglRvqpndTSwQKRjJRmNb
+    - SOFTWARE, PRACTICE & EXPERIENCE (PRINT)
+        - Eng:B2, CS:A2
+    - INTERNATIONAL JOURNAL OF COMPUTER GAMES TECHNOLOGY
+        - Eng:B3, CS:B1
+    - IEEE Transactions on Games??
