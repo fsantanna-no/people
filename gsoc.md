@@ -1,0 +1,6 @@
+- fiz 1 plano
+- ver com Anny se há outro
+- propor para fora
+    - Guido, Wolf
+    - Takanabe
+    - Hanxleden

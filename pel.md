@@ -1,0 +1,8 @@
+- organizar em uma pasta os candidatos de 19.1
+- reescrever o texto da linha de redes
+    - sistemas concorrentes
+    - linguagens
+    - sistemas embarcados
+- criar disciplina de PAA
+    - ver interesse das outras linhas
+        - qual linguagem?
